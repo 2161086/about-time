@@ -15,7 +15,7 @@ function setup() {
   background(0);
   engine = Engine.create();
   world = engine.world;
-  // Engine.run(engine);
+  // Engine.run(engine); ss
   var options = {
     isStatic: true,
     rotationSpeed: 0.01,
